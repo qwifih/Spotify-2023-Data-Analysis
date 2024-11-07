@@ -84,4 +84,5 @@ tells the program to use latin-1 character encoding when reading the .csv file.
 After that, I consulted my notes as my memory of pandas was a bit rusty. I found the right functions to use but encountered another problem. There was an error when trying to read the dataset, and I had to use 
 df['streams'] = pd.to_numeric(df['streams'], errors='coerce') so that it would read the unique characters. I used this line of code whenever the same problem appeared on the other parts of the program.
 
-Aside from the aforementioned problems, it was smooth sailing as I had the internet to help me code the program, especially when dealing with the graphs, as I had a difficult time setting up each one.
+Aside from the aforementioned problems, it was smooth sailing as I had the internet to help me code the program, especially when dealing with the graphs, as I had difficulty setting up each one. In the end, I was able to achieve the intended output of the program
+which helped me to answer the guide questions posted above.
