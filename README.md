@@ -20,7 +20,7 @@ _-What are the mean, median, and standard deviation of the streams column?_
 
 The mean, median, and standard deviation of the stream column are as follows:
 
-Mean = 514137424.93907565
+Mean = 514137424.94
 
 Median = 290530915.0
 
